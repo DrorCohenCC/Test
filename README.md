@@ -9,3 +9,4 @@ Test
 
 Support
 
+<a href="http://codersclan.net/support/ticket.php?repo_id=5"><img src="http://www.codersclan.net/graphics/getSupport_blue_big.png" width="160"></a>
