@@ -19,3 +19,10 @@ Personal support is provided by CodersClan.
 If you're having problems with using the project, use the support forum at CodersClan.
 
 <a href="http://codersclan.net/forum/index.php?repo_id=7"><img src="http://www.codersclan.net/graphics/getSupport_blue_big.png" width="160"></a>
+
+
+## Support
+
+If you're having problems with using the project, use the support forum at CodersClan.
+
+<a href="http://codersclan.net/forum/index.php?repo_id=17"><img src="http://www.codersclan.net/graphics/getSupport_$_github.png" width="160"></a>
