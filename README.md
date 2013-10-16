@@ -26,3 +26,10 @@ If you're having problems with using the project, use the support forum at Coder
 If you're having problems with using the project, use the support forum at CodersClan.
 
 <a href="http://codersclan.net/forum/index.php?repo_id=17"><img src="http://www.codersclan.net/graphics/getSupport_$_github.png" width="160"></a>
+
+
+## Help
+
+If you're having problems with using the project, use the support forum at CodersClan.
+
+<a href="http://codersclan.net/?repo_id=325"><img src="http://www.codersclan.net/gs_button/?repo_id=325" width="200"></a>
